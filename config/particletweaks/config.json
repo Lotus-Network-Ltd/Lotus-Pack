@@ -1,0 +1,14 @@
+{
+  "trailerCaveDust": false,
+  "trailerTorches": false,
+  "trailerCampfires": false,
+  "trailerBubbles": false,
+  "trailerWaterMovement": false,
+  "trailerAmbientWater": false,
+  "trailerSplashes": false,
+  "trailerFlowingFluids": false,
+  "trailerCascades": false,
+  "trailerPoof": false,
+  "trailerSpell": false,
+  "trailerLeaves": false
+}

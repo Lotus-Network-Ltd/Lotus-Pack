@@ -1,0 +1,10 @@
+{
+  "general": {
+    "enable_custom_music": true
+  },
+  "volumes": {},
+  "subtitles": {},
+  "debug": {
+    "print_debug_messages": false
+  }
+}
